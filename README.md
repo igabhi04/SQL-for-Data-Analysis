@@ -1,4 +1,4 @@
-# 📊 Task 3 – SQL for Data Analysis
+# 📊 Task 4 – SQL for Data Analysis
 
 This project is part of my Data Analyst Internship. I used SQL (MySQL) to extract and analyze data from an ecommerce sales dataset.
 
