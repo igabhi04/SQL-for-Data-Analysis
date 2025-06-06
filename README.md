@@ -92,4 +92,4 @@ INNER JOIN customers c ON o.`Customer Name` = c.`Customer Name`;` – All SQL qu
 
 **Abhishek Adhude**  
 Final Year B.Tech – CSE | Aspiring Data Analyst  
-[LinkedIn](#) *(Add your link)*
+[https://www.linkedin.com/in/abhishekadhude/]
